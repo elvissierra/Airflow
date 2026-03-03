@@ -3,3 +3,4 @@
 example_dags/
 __pycache__
 logs/
+airflow.cfg
